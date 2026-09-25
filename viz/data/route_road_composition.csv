@@ -1,0 +1,25 @@
+# Source: report Tables 6-8, "Percentage" column (share of route length by OSM road class). The shortest route lists "Primary" twice (68.41% and 16.81%); both rows are kept as printed.
+route,road_class,percent
+Potential,Primary,63.79314
+Potential,Motorway,6.729573
+Potential,Tertiary,5.426786
+Potential,Residential,3.056484
+Potential,Secondary,19.92146
+Potential,Trunk,0.772801
+Potential,Unclassified,0.299754
+Existing,Primary,27.20727
+Existing,Motorway,27.17042
+Existing,Motorway link,0.189543
+Existing,Secondary,0.045013
+Existing,Tertiary,0.030779
+Existing,Trunk,45.1994
+Existing,Unclassified,0.157568
+Shortest,Primary,68.4079
+Shortest,Motorway,1.235359
+Shortest,Motorway link,0.38908
+Shortest,Primary,16.81088
+Shortest,Residential,2.229773
+Shortest,Secondary,1.967507
+Shortest,Tertiary,7.726909
+Shortest,Trunk,0.888106
+Shortest,Unclassified,0.344478

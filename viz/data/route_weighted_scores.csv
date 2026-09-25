@@ -1,0 +1,7 @@
+# Source: report Table 3 (AHP priorities, CR = 5.4%) and Table 9 (scores 0-1 and weighted scores)
+factor,priority,Potential,Existing,Shortest
+Road composition,0.611,0.1,0.9,0.1
+Route coverage,0.161,0.3,0.7,0.3
+Total cost,0.086,0.7,0.4,0.8
+Total time,0.077,0.7,0.5,0.8
+Total distance,0.065,0.6,0.5,0.7
